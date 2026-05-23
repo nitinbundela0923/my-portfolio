@@ -33,7 +33,7 @@ function Home() {
           <div className="hero-text">
 
             <h1>
-              Hi, I am <span>NITIN    BUNDELA</span>
+              Hi, I am <span>NITI BUNDELA</span>
             </h1>
 
             <p className="subtitle">
