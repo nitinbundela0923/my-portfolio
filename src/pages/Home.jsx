@@ -33,9 +33,9 @@ function Home() {
           <div className="hero-text">
 
             <h1>
-              Hi, I am <span>NITI BUNDELA</span>
+              Hi, I am <span>NITIN BUNDELA</span>
             </h1>
-
+            
             <p className="subtitle">
               AI & Data Science Learner
             </p>
